@@ -16,11 +16,26 @@ header {
 
 h1 {
   font-weight: 100;
+  color: #0abab5;
+}
+
+h2 {
+  color: #9400D3;
+}
+
+p {
+  color: #FF8C00;
+}
+
+button {
+  background-color: #FFFF33;
+  color: #FF1493;
 }
 
 .big-and-bold {
   font-size: 48px;
   font-weight: 400;
+  color: #FF69B4;
   transition: all 3s;
 }
 
